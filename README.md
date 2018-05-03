@@ -5,7 +5,6 @@ Lab1: https://drive.google.com/open?id=1DbHNTKEXrqZ3GlHteURmO1L5AC7vdYV0
 Lab2: https://www.dropbox.com/sh/a6z1lye88gxjbf7/AABtW2KxEaC5nqvEQUGd2PNma?dl=0
 
 Lab3: https://www.codecademy.com/learn/learn-python
-https://www.codecademy.com/learn/learn-python
 ![](https://github.com/isatou/engr101/blob/master/Screen%20Shot%202018-05-03%20at%2011.33.43%20AM.png)
 
     Register for an account on Code Academy and enroll in https://www.codecademy.com/learn/learn-python
